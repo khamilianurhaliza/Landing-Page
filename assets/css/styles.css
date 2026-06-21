@@ -1,0 +1,53 @@
+:root{
+  --blue:#0b7aff;
+  --dark:#0b3f6b;
+  --muted:#f6f9ff;
+  --radius:10px;
+}
+*{box-sizing:border-box}
+html,body{height:100%}
+body{font-family:'Poppins',system-ui,Segoe UI,Arial;line-height:1.5;color:#123;padding:0;margin:0}
+.container{max-width:1100px;margin:0 auto;padding:0 20px}
+
+.site-header{background:var(--blue);color:#fff;padding:28px 0}
+.header-inner{display:flex;align-items:center;justify-content:space-between}
+.brand{font-weight:700}
+.main-nav a{color:#fff;margin-left:18px;text-decoration:none}
+
+.hero{background:linear-gradient(180deg,#0b7aff 0%,#0b7aff 60%);color:#fff;padding:50px 0}
+.hero-inner{display:flex;align-items:center;gap:30px}
+.hero-copy{flex:1}
+.hero-copy h1{font-size:32px;margin:0 0 12px}
+.hero-copy p{max-width:560px}
+.hero-art img{width:420px;max-width:40vw;border-radius:50%}
+
+.section{padding:56px 0}
+.muted{background:#fff}
+.section-title{text-align:center;color:var(--dark);margin-bottom:28px;font-size:20px}
+
+.grid{display:grid;gap:20px}
+.grid-3{grid-template-columns:repeat(3,1fr)}
+
+.card{background:#fff;border-radius:var(--radius);padding:22px;border:1px solid rgba(11,122,255,0.15);box-shadow:0 6px 0 rgba(11,122,255,0.06)}
+
+.project{height:120px;background:#f7f7f7;border-radius:8px;display:flex;align-items:center;justify-content:center}
+
+.pricing-card{background:#fff;border-radius:10px;padding:22px;text-align:center;border:1px solid rgba(11,122,255,0.14)}
+.pricing-card.featured{transform:translateY(-8px);box-shadow:0 20px 30px rgba(11,122,255,0.06)}
+
+.job-list{list-style:none;padding:0;margin:0}
+.job-list li{background:#fff;border:1px solid rgba(11,122,255,0.12);padding:16px;border-radius:8px;margin-bottom:12px;display:flex;justify-content:space-between;align-items:center}
+
+.site-footer{background:var(--blue);color:#fff;padding:28px 0;margin-top:40px}
+.footer-inner{display:flex;justify-content:space-between;align-items:center}
+
+.btn{display:inline-block;padding:10px 20px;border-radius:8px;background:#fff;color:var(--dark);text-decoration:none}
+.btn.primary{background:var(--blue);color:#fff}
+.btn.small{padding:6px 10px;border-radius:6px}
+
+@media (max-width:900px){
+  .hero-inner{flex-direction:column;text-align:center}
+  .hero-art img{max-width:60vw}
+  .grid-3{grid-template-columns:repeat(1,1fr)}
+  .footer-inner{flex-direction:column;gap:12px;text-align:center}
+}
