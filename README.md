@@ -1,189 +1,333 @@
 # 🎨 Design Case Study
 
-Landing page ini dirancang untuk membantu bisnis jasa pembuatan website dalam meningkatkan kredibilitas, membangun kepercayaan calon pelanggan, dan mendorong konversi melalui struktur informasi yang jelas serta pengalaman pengguna yang intuitif.
+<div align="center">
 
-Dalam proses perancangan, fokus utama diberikan pada:
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&duration=3500&pause=1000&color=6366F1&center=true&vCenter=true&width=850&lines=Website+Development+Landing+Page;User-Centered+Design;Responsive+Web+Experience;Designed+for+Business+Growth"/>
 
-* 🎯 Conversion-Oriented Design
-* 📱 Responsive User Experience
-* 🎨 Modern Visual Hierarchy
-* ⚡ Fast & Accessible Interface
-* 🧠 User-Centered Design Approach
+</div>
 
 ---
 
-## 🏠 Hero Section
+## 📌 Project Overview
+
+Landing Page ini merupakan website promosi yang dirancang untuk membantu bisnis jasa pembuatan website dalam memperkenalkan layanan, meningkatkan kredibilitas, serta mendorong calon pelanggan untuk melakukan konsultasi maupun pemesanan.
+
+Proyek ini berfokus pada penyajian informasi yang terstruktur, desain visual yang modern, dan pengalaman pengguna yang intuitif sehingga pengunjung dapat memahami layanan dengan cepat tanpa harus melakukan eksplorasi yang rumit.
+
+---
+
+## 🎯 Problem Statement
+
+Banyak penyedia jasa pembuatan website memiliki informasi layanan yang tersebar, kurang terstruktur, dan sulit dipahami oleh calon pelanggan.
+
+Hal tersebut dapat menyebabkan:
+
+- Pengunjung kesulitan memahami layanan yang ditawarkan.
+- Informasi harga tidak tersampaikan dengan jelas.
+- Tingkat kepercayaan calon pelanggan menjadi rendah.
+- Peluang konversi menjadi lebih kecil.
+
+---
+
+## 💡 Proposed Solution
+
+Untuk mengatasi permasalahan tersebut, landing page ini dirancang dengan pendekatan:
+
+- User-Centered Design
+- Responsive Design
+- Clear Information Architecture
+- Conversion-Oriented Layout
+- Modern Visual Interface
+
+Tujuannya adalah menciptakan pengalaman pengguna yang sederhana namun efektif dalam menyampaikan informasi layanan.
+
+---
+
+## 👥 Target Users
+
+### 🏢 Business Owners
+
+Pemilik usaha yang membutuhkan website profesional untuk meningkatkan kehadiran digital bisnis mereka.
+
+### 🚀 Startup Founders
+
+Startup yang membutuhkan website sebagai media branding dan pemasaran.
+
+### 🛍️ UMKM
+
+Pelaku UMKM yang ingin menjangkau pelanggan secara lebih luas melalui platform digital.
+
+### 👨‍💼 Company Representatives
+
+Perusahaan yang membutuhkan website company profile maupun landing page promosi.
+
+---
+
+# 🎯 Design Goals
+
+| Goal | Description |
+|--------|--------|
+| 🎯 Improve Conversion | Meningkatkan kemungkinan pengguna melakukan konsultasi atau pemesanan layanan |
+| 📱 Responsive Experience | Memberikan pengalaman optimal di berbagai perangkat |
+| ⚡ Fast Access | Mempermudah pengguna menemukan informasi penting |
+| 🎨 Professional Branding | Membangun citra bisnis yang modern dan terpercaya |
+
+---
+
+# 🏠 Hero Section
 
 ### Objective
 
-Hero section dirancang sebagai titik fokus pertama yang dilihat pengunjung ketika membuka website. Tujuannya adalah menyampaikan value proposition secara cepat dan mengarahkan pengguna untuk melakukan tindakan utama melalui tombol Call-To-Action.
+Hero Section berfungsi sebagai titik kontak pertama antara pengguna dan layanan yang ditawarkan.
 
-### Design Approach
+Bagian ini dirancang untuk memberikan kesan profesional sekaligus menjelaskan value proposition utama dalam beberapa detik pertama.
 
-* Headline yang kuat dan mudah dipahami
-* CTA yang kontras agar mudah ditemukan
-* Ilustrasi modern untuk meningkatkan daya tarik visual
-* Tata letak dua kolom untuk memaksimalkan keterbacaan
+### Key Elements
 
-### UX Consideration
+- Headline utama
+- Deskripsi layanan
+- CTA Button
+- Visual Illustration
+- Navigation Menu
 
-Pengguna dapat memahami layanan yang ditawarkan hanya dalam beberapa detik tanpa perlu melakukan scroll.
+### Design Decisions
+
+- Menggunakan layout dua kolom untuk menjaga keseimbangan visual.
+- CTA dibuat kontras agar mudah ditemukan.
+- Ilustrasi digunakan untuk meningkatkan daya tarik visual tanpa mengganggu fokus utama.
+
+### UX Impact
+
+Pengguna dapat memahami layanan yang ditawarkan tanpa harus melakukan scroll terlebih dahulu.
 
 <img src="assets/Beranda.png" width="100%" alt="Hero Section"/>
 
 ---
 
-## ⭐ Services & Benefits Section
+# ⭐ Services & Benefits
 
 ### Objective
 
-Menjelaskan layanan yang tersedia sekaligus menunjukkan manfaat yang akan diperoleh pelanggan.
+Menyampaikan layanan utama yang tersedia serta manfaat yang diperoleh pelanggan.
 
-### Design Approach
+### Design Decisions
 
-* Menggunakan card layout untuk mempermudah scanning informasi
-* Setiap layanan ditampilkan secara ringkas dan jelas
-* Visual hierarchy membantu pengguna memahami informasi dengan cepat
+- Menggunakan card layout untuk meningkatkan keterbacaan.
+- Setiap layanan disajikan secara singkat dan informatif.
+- Memberikan visual hierarchy yang jelas.
 
-### UX Consideration
+### UX Impact
 
-Pengunjung dapat membandingkan layanan dan manfaat tanpa merasa kewalahan oleh terlalu banyak teks.
+Pengguna dapat membandingkan layanan dengan cepat tanpa membaca terlalu banyak teks.
 
 <img src="assets/Layanan.png" width="100%" alt="Services Section"/>
 
 ---
 
-## 💰 Pricing Packages
+# 💰 Pricing Packages
 
 ### Objective
 
-Menyediakan beberapa pilihan paket layanan agar pengguna dapat memilih solusi yang sesuai dengan kebutuhan dan anggaran mereka.
+Membantu pengguna memilih paket layanan sesuai kebutuhan dan anggaran.
 
-### Design Approach
+### Design Decisions
 
-* Paket ditampilkan dalam bentuk card yang mudah dibandingkan
-* Informasi harga dibuat menonjol
-* Fitur utama ditampilkan secara ringkas
-* Call-To-Action ditempatkan pada setiap paket
+- Struktur pricing dibuat sederhana.
+- Fitur utama ditampilkan secara ringkas.
+- Harga menjadi fokus utama visual.
+- Setiap paket memiliki CTA yang jelas.
 
-### UX Consideration
+### UX Impact
 
-Struktur pricing dirancang untuk mempercepat proses pengambilan keputusan pengguna.
+Mengurangi kebingungan pengguna dalam menentukan pilihan layanan.
 
 <p align="center">
-  <img src="assets/PriceList-1.png" width="30%" />
-  <img src="assets/PriceList-2.png" width="30%" />
-  <img src="assets/PriceList-3.png" width="30%" />
+  <img src="assets/PriceList-1.png" width="30%">
+  <img src="assets/PriceList-2.png" width="30%">
+  <img src="assets/PriceList-3.png" width="30%">
 </p>
 
 ---
 
-## 🤝 Portfolio & Client Showcase
+# 🤝 Portfolio & Client Showcase
 
 ### Objective
 
-Meningkatkan kepercayaan pengguna melalui bukti sosial (social proof) berupa klien dan proyek yang pernah dikerjakan.
+Meningkatkan kredibilitas melalui bukti sosial (social proof).
 
-### Design Approach
+### Design Decisions
 
-* Menampilkan logo klien untuk membangun kredibilitas
-* Showcase project dengan visual yang menarik
-* Layout grid yang responsif dan mudah dipindai
+- Menampilkan logo klien.
+- Menampilkan proyek yang pernah dikerjakan.
+- Menggunakan grid layout agar mudah dipindai.
 
-### UX Consideration
+### UX Impact
 
-Calon pelanggan cenderung lebih percaya terhadap layanan yang memiliki portofolio dan pengalaman yang jelas.
+Meningkatkan kepercayaan calon pelanggan terhadap kualitas layanan.
 
 <img src="assets/OurClient.png" width="100%" alt="Portfolio Section"/>
 
 ---
 
-## 🔄 Service Workflow
+# 🔄 Service Workflow
 
 ### Objective
 
-Menjelaskan proses kerja secara transparan agar pelanggan memahami tahapan pengerjaan website.
+Menjelaskan proses pengerjaan layanan secara transparan.
 
-### Design Approach
+### Workflow
 
-* Menggunakan visual step-by-step
-* Informasi disusun secara berurutan
-* Desain sederhana untuk memudahkan pemahaman
+```text
+Consultation
+      ↓
+Planning
+      ↓
+Content Preparation
+      ↓
+Development
+      ↓
+Revision
+      ↓
+Launch
+```
 
-### UX Consideration
+### Design Decisions
 
-Mengurangi keraguan pelanggan dengan menunjukkan proses kerja yang jelas dan terstruktur.
+- Menggunakan visual step-by-step.
+- Mengurangi ketidakpastian pelanggan.
+- Menunjukkan profesionalisme proses kerja.
 
-<img src="assets/Layanan.png" width="100%" alt="Workflow Section"/>
+### UX Impact
+
+Pelanggan memahami tahapan pengerjaan sebelum melakukan pemesanan.
 
 ---
 
-## 🎯 Website Redesign Service
+# 🎯 Website Redesign Service
 
 ### Objective
 
-Menyediakan solusi bagi bisnis yang sudah memiliki website namun membutuhkan peningkatan tampilan, performa, atau pengalaman pengguna.
+Menawarkan solusi untuk website yang sudah ada namun membutuhkan peningkatan kualitas.
 
-### Design Approach
+### Problems Addressed
 
-* Menyoroti masalah umum website lama
-* Menawarkan solusi redesign yang lebih modern
-* Menampilkan paket redesign secara jelas
+- Desain lama
+- Performa lambat
+- Kurang mobile friendly
+- User experience kurang optimal
 
-### UX Consideration
+### Solution
 
-Membantu pengguna memahami manfaat redesign tanpa harus membaca penjelasan yang panjang.
+Melakukan redesign tampilan dan struktur website agar lebih modern, cepat, dan mudah digunakan.
 
 <img src="assets/PriceList-2.png" width="100%" alt="Website Redesign"/>
 
 ---
 
-## 💼 Career Opportunities
+# 💼 Career Opportunities
 
 ### Objective
 
-Menyediakan informasi lowongan pekerjaan untuk menjangkau kandidat potensial yang ingin bergabung dengan perusahaan.
+Memberikan informasi lowongan pekerjaan yang tersedia bagi calon kandidat.
 
-### Design Approach
+### Design Decisions
 
-* Layout yang sederhana dan profesional
-* Informasi posisi mudah ditemukan
-* Tombol aksi yang jelas untuk proses pendaftaran
+- Layout sederhana.
+- Informasi mudah ditemukan.
+- CTA pendaftaran yang jelas.
 
-### UX Consideration
+### UX Impact
 
-Mempermudah kandidat dalam menemukan posisi yang relevan dan melakukan pendaftaran.
+Mempermudah kandidat menemukan posisi yang relevan.
 
-<img src="assets/LowonganKerja.png" width="100%" alt="Careers Section"/>
+<img src="assets/LowonganKerja.png" width="100%" alt="Career Section"/>
 
 ---
 
-# 🎯 Key Design Decisions
+# 🎨 Design System
 
-### Visual Hierarchy
+## Color Palette
 
-Penggunaan ukuran teks, warna, dan spacing yang konsisten membantu pengguna menemukan informasi penting lebih cepat.
+| Color | Usage |
+|---------|---------|
+| 🔵 Blue | Primary Color |
+| ⚪ White | Background |
+| ⚫ Dark Gray | Text |
+| 🟢 Green | Success State |
 
-### Responsive Design
+## Typography
 
-Setiap komponen dirancang untuk beradaptasi secara optimal pada perangkat desktop, tablet, maupun mobile.
+- Poppins
+- Inter
+- Sans Serif
 
-### Accessibility
+## Components
 
-Kontras warna, ukuran teks, dan struktur konten diperhatikan agar tetap nyaman digunakan oleh berbagai pengguna.
+- Navigation Bar
+- Buttons
+- Cards
+- Pricing Cards
+- Testimonials
+- Footer
 
-### Conversion Focused
+---
 
-Setiap section dirancang untuk mengarahkan pengguna menuju tujuan utama yaitu melakukan konsultasi atau pemesanan layanan.
+# 📱 Responsive Design Strategy
+
+Landing page dirancang menggunakan pendekatan **Mobile-First Design** untuk memastikan pengalaman pengguna tetap optimal pada berbagai perangkat.
+
+| Device | Status |
+|----------|----------|
+| Mobile | ✅ |
+| Tablet | ✅ |
+| Laptop | ✅ |
+| Desktop | ✅ |
 
 ---
 
 # 📈 Expected Outcome
 
-Melalui struktur informasi yang jelas dan desain yang modern, landing page ini diharapkan mampu:
+Melalui desain yang modern dan struktur informasi yang jelas, landing page ini diharapkan mampu:
 
-* Meningkatkan kredibilitas bisnis
-* Meningkatkan engagement pengguna
-* Memperjelas informasi layanan
-* Meningkatkan conversion rate
-* Memberikan pengalaman pengguna yang lebih baik
+- 🚀 Meningkatkan kredibilitas bisnis
+- 🎯 Meningkatkan conversion rate
+- 📱 Memberikan pengalaman pengguna yang lebih baik
+- ⭐ Memperkuat citra profesional perusahaan
+- 💡 Menyampaikan informasi layanan secara efektif
+
+---
+
+# 👨‍💻 My Contributions
+
+Dalam proyek ini saya bertanggung jawab untuk:
+
+- UI Design
+- UX Planning
+- Information Architecture
+- Wireframing
+- Responsive Layout Design
+- Front-End Development
+- Design-to-Code Implementation
+
+---
+
+# 🏆 Key Learnings
+
+Melalui proyek ini saya mempelajari bagaimana merancang landing page yang tidak hanya menarik secara visual, tetapi juga mampu mendukung tujuan bisnis melalui struktur informasi yang jelas, pengalaman pengguna yang baik, dan pendekatan desain yang berorientasi pada konversi.
+
+Beberapa hal yang saya pelajari:
+
+- Pentingnya visual hierarchy dalam meningkatkan keterbacaan.
+- Bagaimana CTA memengaruhi perilaku pengguna.
+- Menerapkan prinsip responsive design untuk berbagai perangkat.
+- Menyusun informasi agar lebih mudah dipahami pengguna.
+
+---
+
+<div align="center">
+
+## ✨ Designed with User Experience in Mind
+
+<img src="https://capsule-render.vercel.app/api?type=rect&height=4&color=0:4F46E5,50:6366F1,100:8B5CF6"/>
+
+</div>
