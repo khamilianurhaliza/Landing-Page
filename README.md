@@ -335,15 +335,7 @@ Di bawah ini adalah deskripsi terperinci untuk setiap frame/section dari desain 
 
 	![Frame 7 - Careers](assets/LowonganKerja.png)
 
-8. Footer & Kontak (Frame 8)
-	- Tujuan: Informasi kontak lengkap, alamat, email, nomor telepon, dan tautan sosial.
-	- Elemen: area kontak kiri, info singkat organisasi, ikon sosial, copyright.
-
-	*(Footer tampil di setiap halaman sebagai komponen global — lihat Frame 1 untuk contoh.)*
-
-	![Frame 8 - Footer](assets/Beranda.png)
-
-9. Elemen Global & Komponen (dipakai di banyak frame)
+8. Elemen Global & Komponen (dipakai di banyak frame)
 	- Navbar responsif dengan anchor link ke section
 	- Tombol CTA konsisten (warna, padding, radius)
 	- Kartu informasi dengan bayangan lembut dan border tipis
