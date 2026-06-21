@@ -39,7 +39,7 @@ Dengan tata letak yang terstruktur dan visual yang menarik, landing page ini dap
 
 <div align="center">
 
-<img src="assets/image.png" width="100%" alt="Landing Page Preview"/>
+<img src="assets/Wireframe - 1.png" width="90%" alt="Landing Page Preview" style="max-width:1000px;"/>
 
 </div>
 
@@ -288,38 +288,56 @@ Di bawah ini adalah deskripsi terperinci untuk setiap frame/section dari desain 
 	- Perilaku responsif: pada layar kecil, gambar akan dipindah ke bawah teks; CTA tetap terlihat dan mudah di-tap.
 	- Catatan desain: warna latar dominan biru, kontras tombol putih, radius pada gambar membuat tampilan modern.
 
+	![Frame 1 - Hero](assets/Wireframe - 1.png)
+
 2. Seksi Jasa & Keunggulan (Frame 2)
 	- Tujuan: Menjelaskan layanan yang ditawarkan dan menampilkan keuntungan (SEO, branding, biaya, dsb.).
 	- Elemen: heading tengah, tiga hingga empat kartu info dengan bayangan lembut, teks singkat pada setiap kartu.
 	- Interaksi: hover pada kartu memberi bayangan atau elevasi untuk menekankan elemen interaktif.
+
+	![Frame 2 - Services](assets/Wireframe - 2.png)
 
 3. Paket Harga (Frame 3)
 	- Tujuan: Menampilkan opsi paket (Basic, Intermediate, Advanced) sehingga pengunjung bisa membandingkan dan memilih.
 	- Elemen: kolom harga responsif dengan judul paket, daftar fitur, harga lama (coret) dan harga promo, CTA `Pesan Sekarang`.
 	- Catatan: paket menonjolkan paket tengah (recommended) dengan warna atau elevasi lebih tinggi.
 
+	![Frame 3 - Pricing](assets/Wireframe - 6.png)
+
 4. Portfolio & Klien (Frame 4)
 	- Tujuan: Menumbuhkan kepercayaan pengunjung lewat logo klien dan contoh proyek web.
 	- Elemen: grid logo klien, judul `Our Clients`, galeri proyek (thumbnail + judul + deskripsi singkat).
 	- Responsivitas: logo tersusun dalam beberapa kolom di desktop dan menjadi carousel/grid 1–2 kolom di mobile.
+
+	![Frame 4 - Portfolio](assets/Wireframe - 4.png)
 
 5. Proses Pemesanan (Frame 5)
 	- Tujuan: Menjelaskan langkah-langkah kerja (Konsultasi → Perencanaan → Kirim Konten → Pembuatan).
 	- Elemen: empat kartu proses dengan ikon/ilustrasi, judul, dan deskripsi singkat.
 	- Catatan UX: sediakan microcopy untuk memperjelas durasi tiap langkah (opsional).
 
+	![Frame 5 - Process](assets/Wireframe - 5.png)
+
 6. Jasa Redesign & Mengapa Harus (Frame 6)
 	- Tujuan: Menawarkan layanan redesign dan menampilkan alasan kuat untuk memperbarui situs.
 	- Elemen: daftar poin masalah (konten, SEO, desain), paket redesign (kartu harga serupa paket pembuatan).
+
+	![Frame 6 - Redesign & Packages](assets/Wireframe - 7.png)
 
 7. Lowongan Pekerjaan (Frame 7)
 	- Tujuan: Menarik kandidat yang relevan—menampilkan kualifikasi dan daftar lowongan.
 	- Elemen: grid kartu kualifikasi, daftar posisi dengan tombol `Lamar` di kanan.
 	- Catatan: tombol `Lamar` harus men-trigger form modal atau mengarah ke form pendaftaran email.
 
+	![Frame 7 - Careers](assets/Wireframe - 8.png)
+
 8. Footer & Kontak (Frame 8)
 	- Tujuan: Informasi kontak lengkap, alamat, email, nomor telepon, dan tautan sosial.
 	- Elemen: area kontak kiri, info singkat organisasi, ikon sosial, copyright.
+
+	*(Footer tampil di setiap halaman sebagai komponen global — lihat Frame 1 untuk contoh.)*
+
+	![Frame 8 - Footer](assets/Wireframe - 1.png)
 
 9. Elemen Global & Komponen (dipakai di banyak frame)
 	- Navbar responsif dengan anchor link ke section
