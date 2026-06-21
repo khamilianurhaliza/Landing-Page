@@ -1,41 +1,72 @@
-# 🚀 Landing Page Design Case Study
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B7AFF,100:00D4FF&height=250&section=header&text=Landing%20Page%20Design&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=38" />
+</p>
 
 <div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&duration=3000&pause=1000&color=0B7AFF&center=true&vCenter=true&width=800&lines=Landing+Page+Design+Case+Study;UI%2FUX+Design+%26+Frontend+Development;Responsive+%7C+Modern+%7C+User-Friendly" alt="Typing SVG" />
+
+<br><br>
 
 ![Figma](https://img.shields.io/badge/Figma-Design-orange?style=for-the-badge\&logo=figma)
 ![Status](https://img.shields.io/badge/Status-Completed-success?style=for-the-badge)
 ![Responsive](https://img.shields.io/badge/Responsive-Ready-blue?style=for-the-badge)
+![License](https://img.shields.io/badge/License-MIT-purple?style=for-the-badge)
 
-**Modern Landing Page Design for Website Development Services**
+### 🚀 Modern Landing Page Design for Website Development Services
 
-Didesain untuk meningkatkan kredibilitas bisnis, membangun kepercayaan calon pelanggan, dan meningkatkan konversi melalui pengalaman pengguna yang intuitif.
+Dirancang untuk meningkatkan kredibilitas bisnis, membangun kepercayaan calon pelanggan, dan mengoptimalkan konversi melalui pengalaman pengguna yang modern, responsif, dan berorientasi pada kebutuhan pengguna.
 
 </div>
 
 ---
 
-## 📋 Table of Contents
+## 📑 Table of Contents
 
 * [Overview](#-overview)
+* [Design Goals](#-design-goals)
 * [Figma Design](#-figma-design)
 * [Preview](#-preview)
 * [Project Structure](#-project-structure)
 * [Asset Documentation](#-asset-documentation)
+* [Design System](#-design-system)
 * [Implementation Guide](#-implementation-guide)
-* [Best Practices](#-best-practices)
-* [Handoff Documentation](#-handoff-documentation)
+* [Accessibility](#-accessibility)
+* [Handoff Checklist](#-handoff-checklist)
 
 ---
 
 # 🎯 Overview
 
-Landing page ini dirancang untuk perusahaan jasa pembuatan website dengan fokus pada:
+Landing page ini dibuat untuk membantu bisnis jasa pembuatan website dalam:
 
-✨ Meningkatkan kredibilitas brand
-✨ Menampilkan layanan secara jelas dan terstruktur
-✨ Membangun kepercayaan calon pelanggan
-✨ Mengoptimalkan konversi melalui CTA yang efektif
-✨ Menyediakan pengalaman pengguna yang modern dan responsif
+✅ Meningkatkan kredibilitas dan profesionalitas brand
+
+✅ Menampilkan layanan secara jelas dan terstruktur
+
+✅ Membangun kepercayaan calon pelanggan
+
+✅ Mengoptimalkan konversi melalui Call To Action (CTA)
+
+✅ Memberikan pengalaman pengguna yang intuitif dan responsif
+
+---
+
+# 🎨 Design Goals
+
+### User Goals
+
+* Mencari informasi layanan dengan cepat
+* Memahami manfaat dan keunggulan layanan
+* Melihat portofolio dan klien terpercaya
+* Menghubungi perusahaan dengan mudah
+
+### Business Goals
+
+* Meningkatkan lead generation
+* Meningkatkan brand awareness
+* Menampilkan kredibilitas perusahaan
+* Meningkatkan tingkat konversi
 
 ---
 
@@ -45,105 +76,77 @@ Landing page ini dirancang untuk perusahaan jasa pembuatan website dengan fokus 
 
 https://www.figma.com/design/Yeayrdkr0P4N53LNYM17Zw/Landing-Page?node-id=0-1&t=5zxXbXq4UgNjCEET-1
 
-> Gunakan file Figma sebagai referensi utama untuk implementasi UI, pengambilan design tokens, spacing, typography, dan asset export.
+> Gunakan file Figma sebagai referensi utama untuk implementasi desain, typography, spacing, warna, dan asset export.
 
 ---
 
 # 🖼️ Preview
 
-## Hero Section
+## 🏠 Hero Section
 
 ### Beranda.png
 
 ![Beranda](assets/Beranda.png)
 
-**Deskripsi**
+**Fungsi**
 
-Ilustrasi utama yang digunakan pada Hero Section sebagai visual pembuka halaman.
-
-**Penggunaan**
-
-* Hero Banner
-* Landing Header
-* Branding Illustration
+Visual utama yang digunakan pada Hero Section untuk menarik perhatian pengguna sejak pertama kali membuka halaman.
 
 ---
 
-## Services Section
+## 🛠 Services Section
 
 ### Layanan.png
 
 ![Layanan](assets/Layanan.png)
 
-**Deskripsi**
+**Fungsi**
 
-Ilustrasi yang digunakan untuk memperkuat penjelasan layanan pembuatan website.
-
-**Penggunaan**
-
-* Services Section
-* Feature Highlight
-* Company Introduction
+Menampilkan ilustrasi pendukung yang membantu menjelaskan layanan yang ditawarkan.
 
 ---
 
-## Career Section
+## 💼 Career Section
 
 ### LowonganKerja.png
 
 ![Lowongan Kerja](assets/LowonganKerja.png)
 
-**Deskripsi**
+**Fungsi**
 
-Visual pendukung untuk menampilkan informasi lowongan pekerjaan atau peluang karier.
-
-**Penggunaan**
-
-* Career Section
-* Recruitment Banner
-* Job Information
+Digunakan untuk menampilkan informasi lowongan pekerjaan atau peluang karier.
 
 ---
 
-## Client Section
+## 🤝 Client Section
 
 ### OurClient.png
 
 ![Our Client](assets/OurClient.png)
 
-**Deskripsi**
+**Fungsi**
 
-Kumpulan logo klien atau partner yang menunjukkan kredibilitas perusahaan.
-
-**Penggunaan**
-
-* Client Showcase
-* Trusted By Section
-* Portfolio Section
+Menampilkan daftar klien atau partner yang pernah bekerja sama dengan perusahaan.
 
 ---
 
-## Pricing Section
+## 💰 Pricing Section
 
 ### PriceList Assets
 
-![Price1](assets/PriceList-1.png)
+<p align="center">
+  <img src="assets/PriceList-1.png" width="30%">
+  <img src="assets/PriceList-2.png" width="30%">
+  <img src="assets/PriceList-3.png" width="30%">
+</p>
 
-![Price2](assets/PriceList-2.png)
+**Fungsi**
 
-![Price3](assets/PriceList-3.png)
-
-**Deskripsi**
-
-Visual kartu paket layanan yang digunakan pada bagian Pricing.
-
-**Rekomendasi Implementasi**
+Digunakan sebagai visual paket layanan pada section pricing.
 
 * Basic Package
 * Professional Package
 * Enterprise Package
-
-> Disarankan memisahkan konten teks ke HTML agar mudah dikelola dan diintegrasikan dengan backend.
 
 ---
 
@@ -172,13 +175,62 @@ project/
 
 | Asset             | Section  | Purpose              |
 | ----------------- | -------- | -------------------- |
-| Beranda.png       | Hero     | Main visual          |
-| Layanan.png       | Services | Service illustration |
-| LowonganKerja.png | Career   | Recruitment banner   |
-| OurClient.png     | Clients  | Client logos         |
-| PriceList-1.png   | Pricing  | Package card         |
-| PriceList-2.png   | Pricing  | Package card         |
-| PriceList-3.png   | Pricing  | Package card         |
+| Beranda.png       | Hero     | Main Illustration    |
+| Layanan.png       | Services | Service Illustration |
+| LowonganKerja.png | Career   | Recruitment Banner   |
+| OurClient.png     | Clients  | Client Showcase      |
+| PriceList-1.png   | Pricing  | Basic Package        |
+| PriceList-2.png   | Pricing  | Professional Package |
+| PriceList-3.png   | Pricing  | Enterprise Package   |
+
+---
+
+# 🎨 Design System
+
+## Color Palette
+
+```css
+:root {
+  --primary-color: #0B7AFF;
+  --primary-dark: #0A66D1;
+  --background-color: #FFFFFF;
+  --surface-color: #F6F9FF;
+  --text-color: #12324B;
+}
+```
+
+---
+
+## Typography
+
+### Headings
+
+```css
+font-family: 'Poppins', sans-serif;
+font-weight: 700;
+```
+
+### Body Text
+
+```css
+font-family: 'Poppins', sans-serif;
+font-weight: 400;
+```
+
+---
+
+## Responsive Breakpoints
+
+```css
+/* Mobile */
+0px - 600px
+
+/* Tablet */
+601px - 900px
+
+/* Desktop */
+901px+
+```
 
 ---
 
@@ -186,14 +238,12 @@ project/
 
 ## Image Optimization
 
-Untuk meningkatkan performa website:
-
-### Convert to WebP
+### Convert Images to WebP
 
 ```bash
 hero.webp
-service.webp
-client.webp
+services.webp
+clients.webp
 pricing.webp
 ```
 
@@ -222,55 +272,6 @@ pricing.webp
 
 ---
 
-# 🎨 Design System
-
-## Color Tokens
-
-```css
-:root {
-  --primary-color: #0b7aff;
-  --primary-dark: #0a66d1;
-  --background-color: #ffffff;
-  --surface-color: #f6f9ff;
-  --text-color: #12324b;
-}
-```
-
----
-
-## Typography
-
-### Heading
-
-```css
-font-family: 'Poppins', sans-serif;
-font-weight: 700;
-```
-
-### Body
-
-```css
-font-family: 'Poppins', sans-serif;
-font-weight: 400;
-```
-
----
-
-# 📱 Responsive Breakpoints
-
-```css
-/* Mobile */
-0px - 600px
-
-/* Tablet */
-601px - 900px
-
-/* Desktop */
-901px+
-```
-
----
-
 # 🧩 Component Mapping
 
 | Component    | Class         |
@@ -289,15 +290,11 @@ font-weight: 400;
 
 Pastikan implementasi memenuhi standar aksesibilitas:
 
-✅ Alt text pada seluruh gambar
-
-✅ Kontras warna memenuhi WCAG AA
-
-✅ Navigasi keyboard berfungsi dengan baik
-
-✅ Struktur heading yang semantik
-
-✅ Focus state pada tombol dan link
+* ✅ Alt text pada seluruh gambar
+* ✅ Kontras warna memenuhi WCAG AA
+* ✅ Navigasi keyboard berfungsi dengan baik
+* ✅ Focus state pada tombol dan link
+* ✅ Struktur heading yang semantik
 
 ---
 
@@ -314,29 +311,29 @@ Pastikan implementasi memenuhi standar aksesibilitas:
 
 ### Development
 
-* [ ] Optimized Assets
 * [ ] Responsive Layout
-* [ ] Accessibility Check
-* [ ] SEO Friendly Structure
+* [ ] Asset Optimization
+* [ ] Accessibility Review
+* [ ] SEO Optimization
 * [ ] Performance Optimization
 
 ---
 
 # 🚀 Quick Start
 
-1. Clone repository
+### Clone Repository
 
 ```bash
 git clone <repository-url>
 ```
 
-2. Open project
+### Open Project
 
 ```bash
 cd project
 ```
 
-3. Run locally
+### Run Locally
 
 ```bash
 open index.html
@@ -352,4 +349,12 @@ Crafted with attention to usability, accessibility, and modern web design princi
 
 **UI/UX Design • Responsive Design • User-Centered Design**
 
+<br>
+
+<img src="https://skillicons.dev/icons?i=figma,html,css,javascript,github,vscode" />
+
 </div>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D4FF,100:0B7AFF&height=120&section=footer"/>
+</p>
