@@ -6,7 +6,7 @@
 
 ### Modern Responsive Landing Page for Product & Service Promotion
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&width=850&lines=Modern+Landing+Page;Responsive+Web+Design;Clean+UI+%26+Smooth+User+Experience;Built+with+HTML+CSS+JavaScript"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&width=800&lines=Modern+Landing+Page;Responsive+Web+Design;Clean+UI+%26+Smooth+Experience;Built+with+HTML+CSS+JavaScript"/>
 
 <br>
 
@@ -21,17 +21,17 @@
 
 # ✨ Overview
 
-Landing Page merupakan website statis modern yang dirancang untuk menampilkan produk atau layanan secara profesional dengan tata letak yang bersih, tipografi yang jelas, dan visual yang menarik.
+Landing Page adalah website statis modern yang dirancang untuk membantu mempromosikan produk maupun layanan secara profesional.
 
-Proyek ini berfokus pada pengalaman pengguna yang optimal melalui desain yang responsif, performa yang ringan, serta struktur halaman yang mudah dipahami oleh pengunjung.
+Proyek ini mengutamakan:
 
-### 🎯 Objectives
+* 🎨 Clean & Modern Design
+* 📱 Responsive Layout
+* ⚡ Fast Performance
+* 🖱️ User-Friendly Navigation
+* 🚀 Conversion-Oriented Landing Page
 
-* Menampilkan produk atau layanan secara profesional
-* Meningkatkan engagement pengunjung
-* Memberikan pengalaman pengguna yang nyaman
-* Menyediakan template landing page yang mudah dikustomisasi
-* Mendukung kebutuhan promosi digital
+Dengan tata letak yang terstruktur dan visual yang menarik, landing page ini dapat digunakan sebagai template untuk berbagai kebutuhan bisnis, startup, maupun personal branding.
 
 ---
 
@@ -45,75 +45,46 @@ Proyek ini berfokus pada pengalaman pengguna yang optimal melalui desain yang re
 
 ---
 
-# 🌟 Features
+# 🎯 Project Objectives
 
-## 🎨 Modern UI Design
+Website ini dikembangkan untuk:
 
-* Clean & Modern Layout
-* Professional Typography
+* Menampilkan informasi produk atau layanan secara efektif
+* Meningkatkan engagement pengunjung
+* Memberikan pengalaman pengguna yang nyaman
+* Menyediakan template landing page yang mudah dikustomisasi
+* Mendukung kebutuhan promosi digital
+
+---
+
+# 🚀 Features
+
+## 🎨 Modern User Interface
+
+* Clean Layout
+* Modern Typography
 * Attractive Visual Hierarchy
-* Consistent Design Elements
+* Professional Design
 
 ## 📱 Fully Responsive
 
 * Mobile Friendly
 * Tablet Optimized
 * Desktop Ready
-* Flexible Grid System
+* Flexible Grid Layout
 
-## ⚡ Fast Performance
+## ⚡ Performance Optimized
 
 * Lightweight Structure
-* Optimized Assets
-* Fast Loading Experience
+* Fast Loading
+* Minimal Dependencies
 
-## 🖱️ Easy Navigation
+## 🖱️ Easy Customization
 
-* Clear Call-to-Action
-* Intuitive Layout
-* User-Friendly Interaction
-
-## 🔧 Easy Customization
-
-* Editable Content
-* Flexible Components
-* Easy Color Configuration
-* Replaceable Images & Assets
-
----
-
-# 📋 Landing Page Sections
-
-### 🏠 Hero Section
-
-* Headline
-* Description
-* Call-To-Action Button
-* Hero Illustration
-
-### ⭐ Features Section
-
-* Product Benefits
-* Key Features
-* Service Advantages
-
-### 💰 Pricing Section
-
-* Pricing Plans
-* Subscription Packages
-* Service Comparison
-
-### 💬 Testimonials Section
-
-* Customer Reviews
-* User Feedback
-* Success Stories
-
-### 📞 Footer Section
-
-* Contact Information
-* Social Media Links
-* Navigation Links
+* Easy Color Changes
+* Editable Content Sections
+* Replaceable Images
+* Flexible Layout Components
 
 ---
 
@@ -131,11 +102,10 @@ Proyek ini berfokus pada pengalaman pengguna yang optimal melalui desain yang re
 * CSS3
 * JavaScript
 
-### Tools
+### Development Tools
 
 * Visual Studio Code
-* Git
-* GitHub
+* Git & GitHub
 
 ---
 
@@ -154,21 +124,52 @@ Landing-Page/
 
 ---
 
+# 📸 Landing Page Sections
+
+### 🏠 Hero Section
+
+* Main Headline
+* Description
+* Call-To-Action Button
+
+### ⭐ Features Section
+
+* Product Features
+* Service Benefits
+* Value Proposition
+
+### 💰 Pricing Section
+
+* Pricing Plans
+* Subscription Packages
+* Comparison Cards
+
+### 💬 Testimonials
+
+* Customer Reviews
+* User Feedback
+
+### 📞 Footer
+
+* Contact Information
+* Social Media Links
+* Navigation Links
+
+---
+
 # ⚡ Getting Started
 
-### 1. Clone Repository
+Clone repository:
 
 ```bash
 git clone https://github.com/yourusername/landing-page.git
 ```
 
-### 2. Masuk ke Folder Project
+Masuk ke folder project:
 
 ```bash
 cd landing-page
 ```
-
-### 3. Jalankan Secara Langsung
 
 Buka file:
 
@@ -176,11 +177,7 @@ Buka file:
 index.html
 ```
 
-menggunakan browser favorit Anda.
-
-### 4. Menjalankan Local Server (Opsional)
-
-Menggunakan Python:
+Atau jalankan local server:
 
 ```bash
 python -m http.server 8000
@@ -197,25 +194,29 @@ http://localhost:8000
 # 🎨 Customization
 
 <details>
-<summary><b>Klik untuk melihat detail</b></summary>
+<summary><b>Click to Expand</b></summary>
 
-## Mengubah Konten
+### Mengubah Warna
 
-Buka file:
+Edit file CSS utama dan ubah variabel warna sesuai branding.
+
+### Mengubah Konten
+
+Buka:
 
 ```html
 index.html
 ```
 
-Lalu ubah:
+Kemudian sesuaikan:
 
 * Heading
-* Deskripsi
-* Tombol CTA
-* Paket Harga
-* Testimoni
+* Description
+* Button Text
+* Images
+* Pricing Information
 
-## Mengubah Gambar
+### Mengubah Gambar
 
 Ganti file:
 
@@ -223,19 +224,7 @@ Ganti file:
 assets/image.png
 ```
 
-dengan desain atau screenshot terbaru.
-
-## Mengubah Warna
-
-Edit file CSS utama dan sesuaikan:
-
-```css
-:root {
-  --primary-color: #6366F1;
-}
-```
-
-sesuai kebutuhan branding.
+dengan screenshot atau desain terbaru.
 
 </details>
 
@@ -247,66 +236,33 @@ sesuai kebutuhan branding.
 | ---------------------- | ------ |
 | Responsive Design      | ✅      |
 | Modern UI              | ✅      |
-| Mobile Friendly        | ✅      |
-| Desktop Ready          | ✅      |
 | Fast Loading           | ✅      |
+| Mobile Friendly        | ✅      |
 | Easy Customization     | ✅      |
-| SEO-Friendly Structure | ✅      |
-
----
-
-# 🎨 Design Principles
-
-Proyek ini dikembangkan dengan memperhatikan prinsip-prinsip desain modern:
-
-* Consistency
-* Visual Hierarchy
-* Accessibility
-* Simplicity
-* Responsiveness
-* User Experience
-
----
-
-# 👨‍💻 My Role
-
-Dalam proyek ini saya bertanggung jawab untuk:
-
-* UI Design
-* Front-End Development
-* Responsive Layout Implementation
-* User Experience Optimization
-* Content Structure Planning
-
----
-
-# 🚀 Future Improvements
-
-Beberapa pengembangan yang dapat ditambahkan:
-
-* Dark Mode
-* Animation Effects
-* Contact Form Integration
-* Backend Integration
-* CMS Support
-* SEO Optimization
+| SEO Friendly Structure | ✅      |
 
 ---
 
 # 🌟 Why This Project?
 
 * 🚀 Modern Landing Page Design
-* 🎨 Clean User Interface
 * 📱 Fully Responsive Layout
 * ⚡ Lightweight & Fast
+* 🎨 Professional User Interface
 * 🔧 Easy to Customize
-* 💼 Suitable for Business & Portfolio
+* 💼 Suitable for Portfolio & Business Use
 
 ---
 
-# 📄 License
+# 👨‍💻 My Role
 
-This project is open-source and available for learning, modification, and personal use.
+In this project, I was responsible for:
+
+* UI Design
+* Front-End Development
+* Responsive Layout Implementation
+* Content Structure Planning
+* User Experience Optimization
 
 ---
 
@@ -314,7 +270,7 @@ This project is open-source and available for learning, modification, and person
 
 ## ⭐ Support
 
-Jika Anda menyukai proyek ini, jangan lupa berikan ⭐ pada repository ini.
+If you like this project, consider giving it a star on GitHub.
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:4F46E5,50:6366F1,100:8B5CF6"/>
 
