@@ -275,3 +275,84 @@ If you like this project, consider giving it a star on GitHub.
 <img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:4F46E5,50:6366F1,100:8B5CF6"/>
 
 </div>
+
+---
+
+## 📐 Penjelasan Setiap Frame (Figma)
+
+Di bawah ini adalah deskripsi terperinci untuk setiap frame/section dari desain Figma yang digunakan pada landing page. Setiap frame menjelaskan tujuan, elemen UI utama, dan catatan desain / responsivitas.
+
+1. Hero (Frame 1) — Jasa Pembuatan Website
+	- Tujuan: Menyediakan first impression yang kuat dan mengarahkan pengguna ke CTA utama (`Pesan sekarang`).
+	- Elemen utama: logo/navigation, headline, deskripsi singkat, CTA button besar, ilustrasi/desain lingkaran di kanan, ikon chat floating.
+	- Perilaku responsif: pada layar kecil, gambar akan dipindah ke bawah teks; CTA tetap terlihat dan mudah di-tap.
+	- Catatan desain: warna latar dominan biru, kontras tombol putih, radius pada gambar membuat tampilan modern.
+
+2. Seksi Jasa & Keunggulan (Frame 2)
+	- Tujuan: Menjelaskan layanan yang ditawarkan dan menampilkan keuntungan (SEO, branding, biaya, dsb.).
+	- Elemen: heading tengah, tiga hingga empat kartu info dengan bayangan lembut, teks singkat pada setiap kartu.
+	- Interaksi: hover pada kartu memberi bayangan atau elevasi untuk menekankan elemen interaktif.
+
+3. Paket Harga (Frame 3)
+	- Tujuan: Menampilkan opsi paket (Basic, Intermediate, Advanced) sehingga pengunjung bisa membandingkan dan memilih.
+	- Elemen: kolom harga responsif dengan judul paket, daftar fitur, harga lama (coret) dan harga promo, CTA `Pesan Sekarang`.
+	- Catatan: paket menonjolkan paket tengah (recommended) dengan warna atau elevasi lebih tinggi.
+
+4. Portfolio & Klien (Frame 4)
+	- Tujuan: Menumbuhkan kepercayaan pengunjung lewat logo klien dan contoh proyek web.
+	- Elemen: grid logo klien, judul `Our Clients`, galeri proyek (thumbnail + judul + deskripsi singkat).
+	- Responsivitas: logo tersusun dalam beberapa kolom di desktop dan menjadi carousel/grid 1–2 kolom di mobile.
+
+5. Proses Pemesanan (Frame 5)
+	- Tujuan: Menjelaskan langkah-langkah kerja (Konsultasi → Perencanaan → Kirim Konten → Pembuatan).
+	- Elemen: empat kartu proses dengan ikon/ilustrasi, judul, dan deskripsi singkat.
+	- Catatan UX: sediakan microcopy untuk memperjelas durasi tiap langkah (opsional).
+
+6. Jasa Redesign & Mengapa Harus (Frame 6)
+	- Tujuan: Menawarkan layanan redesign dan menampilkan alasan kuat untuk memperbarui situs.
+	- Elemen: daftar poin masalah (konten, SEO, desain), paket redesign (kartu harga serupa paket pembuatan).
+
+7. Lowongan Pekerjaan (Frame 7)
+	- Tujuan: Menarik kandidat yang relevan—menampilkan kualifikasi dan daftar lowongan.
+	- Elemen: grid kartu kualifikasi, daftar posisi dengan tombol `Lamar` di kanan.
+	- Catatan: tombol `Lamar` harus men-trigger form modal atau mengarah ke form pendaftaran email.
+
+8. Footer & Kontak (Frame 8)
+	- Tujuan: Informasi kontak lengkap, alamat, email, nomor telepon, dan tautan sosial.
+	- Elemen: area kontak kiri, info singkat organisasi, ikon sosial, copyright.
+
+9. Elemen Global & Komponen (dipakai di banyak frame)
+	- Navbar responsif dengan anchor link ke section
+	- Tombol CTA konsisten (warna, padding, radius)
+	- Kartu informasi dengan bayangan lembut dan border tipis
+	- Tipografi: gunakan font sans-serif modern (misal Poppins / Inter)
+
+---
+
+## 🎯 Catatan Desain & Implementasi
+
+- Warna utama: gunakan var `--primary: #2563EB` (contoh) untuk memudahkan kustomisasi.
+- Spasi dan grid: gunakan `max-width` 1200px dan grid 12 kolom untuk layout desktop.
+- Gambar & ilustrasi: ekspor dari Figma sebagai PNG/SVG. Simpan di `assets/` dengan nama terstruktur, contohnya `assets/figma-hero.png`, `assets/figma-process.png`.
+
+### Cara Ekspor Frame dari Figma (Saran Nama File)
+1. Pilih frame di Figma → Export → PNG (atau SVG bila vektor)
+2. Ekspor 1x untuk web, 2x untuk retina jika diperlukan
+3. Simpan ke `assets/` dengan nama:
+	- `figma-hero.png`
+	- `figma-services.png`
+	- `figma-pricing.png`
+	- `figma-portfolio.png`
+	- `figma-process.png`
+	- `figma-careers.png`
+	- `figma-footer.png`
+
+Jika Anda ingin, unggah file-file export tersebut ke folder `assets/` dan saya akan memperbarui README untuk menampilkan setiap gambar frame di bawah penjelasan masing-masing.
+
+---
+
+Jika Anda setuju, saya akan:
+- Menambahkan setiap export frame ke `assets/` dan memperlihatkannya di README.
+- Menyesuaikan palette warna README sesuai tema Figma.
+
+Beritahu saya apakah Anda ingin saya menambahkan gambar frame sekarang (unggah file), atau langsung menerapkan nama file default dan format yang saya sarankan.
