@@ -1,161 +1,53 @@
-<div align="center">
+# 🎨 Design Case Study
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:4F46E5,50:6366F1,100:8B5CF6&text=🌐%20WEBSITE%20DEVELOPMENT&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=40"/>
+Landing page ini dirancang untuk membantu bisnis jasa pembuatan website dalam meningkatkan kredibilitas, membangun kepercayaan calon pelanggan, dan mendorong konversi melalui struktur informasi yang jelas serta pengalaman pengguna yang intuitif.
 
-# 🌐 Website Development Service Landing Page
+Dalam proses perancangan, fokus utama diberikan pada:
 
-### Modern Responsive Landing Page for Website Development Services
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&width=850&lines=Modern+Landing+Page;Responsive+Web+Design;Professional+Business+Website;Built+with+HTML+CSS+JavaScript"/>
-
-<br>
-
-![Status](https://img.shields.io/badge/Status-Completed-success?style=for-the-badge)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge\&logo=html5\&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge\&logo=css3\&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
-
-</div>
-
----
-
-## 📖 Table of Contents
-
-* [Overview](#-overview)
-* [Design Preview](#-design-preview)
-* [Features](#-features)
-* [Tech Stack](#-tech-stack)
-* [Project Structure](#-project-structure)
-* [Figma Design Breakdown](#-figma-design-breakdown)
-* [Getting Started](#-getting-started)
-* [My Role](#-my-role)
-* [Support](#-support)
-
----
-
-# ✨ Overview
-
-Website Development Service Landing Page adalah website promosi yang dirancang untuk memperkenalkan layanan pembuatan website secara profesional.
-
-Landing page ini mengutamakan desain modern, struktur informasi yang jelas, dan pengalaman pengguna yang optimal untuk membantu meningkatkan konversi pengunjung menjadi calon pelanggan.
-
-### 🎯 Project Objectives
-
-* Menampilkan layanan secara profesional
-* Meningkatkan kredibilitas bisnis
-* Menyediakan informasi layanan yang mudah dipahami
-* Meningkatkan engagement pengguna
-* Mendukung strategi pemasaran digital
-
----
-
-# 🖼️ Design Preview
-
-<div align="center">
-
-<img src="assets/Beranda.png" width="95%" alt="Landing Page Preview"/>
-
-</div>
-
----
-
-# 🚀 Features
-
-### 🎨 Modern User Interface
-
-* Clean & Modern Layout
-* Professional Typography
-* Consistent Visual Design
-* Attractive Color Scheme
-
-### 📱 Fully Responsive Design
-
-* Mobile Friendly
-* Tablet Optimized
-* Desktop Ready
-* Flexible Grid Layout
-
-### ⚡ Performance Optimized
-
-* Lightweight Structure
-* Fast Loading Experience
-* Optimized Assets
-
-### 🖱️ User Friendly Experience
-
-* Easy Navigation
-* Clear Call-To-Action
-* Structured Information Layout
-
-### 🔧 Easy Customization
-
-* Editable Content
-* Flexible Components
-* Easy Color Modification
-* Reusable Layout Structure
-
----
-
-# 🛠️ Tech Stack
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=html,css,js,vscode,github"/>
-
-</div>
-
-### Front-End
-
-* HTML5
-* CSS3
-* JavaScript
-
-### Development Tools
-
-* Visual Studio Code
-* Git
-* GitHub
-
----
-
-# 📂 Project Structure
-
-```text
-Landing-Page/
-│
-├── index.html
-│
-├── assets/
-│   ├── Beranda.png
-│   ├── Layanan.png
-│   ├── PriceList-1.png
-│   ├── PriceList-2.png
-│   ├── PriceList-3.png
-│   ├── OurClient.png
-│   └── LowonganKerja.png
-│
-└── README.md
-```
-
----
-
-# 🎨 Figma Design Breakdown
-
-Website ini dirancang menggunakan Figma dengan pendekatan modern, responsif, dan berorientasi pada pengalaman pengguna.
+* 🎯 Conversion-Oriented Design
+* 📱 Responsive User Experience
+* 🎨 Modern Visual Hierarchy
+* ⚡ Fast & Accessible Interface
+* 🧠 User-Centered Design Approach
 
 ---
 
 ## 🏠 Hero Section
 
-Menampilkan headline utama, deskripsi layanan, ilustrasi visual, dan tombol Call-To-Action yang menjadi fokus utama halaman.
+### Objective
+
+Hero section dirancang sebagai titik fokus pertama yang dilihat pengunjung ketika membuka website. Tujuannya adalah menyampaikan value proposition secara cepat dan mengarahkan pengguna untuk melakukan tindakan utama melalui tombol Call-To-Action.
+
+### Design Approach
+
+* Headline yang kuat dan mudah dipahami
+* CTA yang kontras agar mudah ditemukan
+* Ilustrasi modern untuk meningkatkan daya tarik visual
+* Tata letak dua kolom untuk memaksimalkan keterbacaan
+
+### UX Consideration
+
+Pengguna dapat memahami layanan yang ditawarkan hanya dalam beberapa detik tanpa perlu melakukan scroll.
 
 <img src="assets/Beranda.png" width="100%" alt="Hero Section"/>
 
 ---
 
-## ⭐ Services & Benefits
+## ⭐ Services & Benefits Section
 
-Bagian ini menjelaskan layanan yang ditawarkan beserta manfaat yang diperoleh pelanggan.
+### Objective
+
+Menjelaskan layanan yang tersedia sekaligus menunjukkan manfaat yang akan diperoleh pelanggan.
+
+### Design Approach
+
+* Menggunakan card layout untuk mempermudah scanning informasi
+* Setiap layanan ditampilkan secara ringkas dan jelas
+* Visual hierarchy membantu pengguna memahami informasi dengan cepat
+
+### UX Consideration
+
+Pengunjung dapat membandingkan layanan dan manfaat tanpa merasa kewalahan oleh terlalu banyak teks.
 
 <img src="assets/Layanan.png" width="100%" alt="Services Section"/>
 
@@ -163,7 +55,20 @@ Bagian ini menjelaskan layanan yang ditawarkan beserta manfaat yang diperoleh pe
 
 ## 💰 Pricing Packages
 
-Menampilkan pilihan paket layanan yang dapat dipilih sesuai kebutuhan pengguna.
+### Objective
+
+Menyediakan beberapa pilihan paket layanan agar pengguna dapat memilih solusi yang sesuai dengan kebutuhan dan anggaran mereka.
+
+### Design Approach
+
+* Paket ditampilkan dalam bentuk card yang mudah dibandingkan
+* Informasi harga dibuat menonjol
+* Fitur utama ditampilkan secara ringkas
+* Call-To-Action ditempatkan pada setiap paket
+
+### UX Consideration
+
+Struktur pricing dirancang untuk mempercepat proses pengambilan keputusan pengguna.
 
 <p align="center">
   <img src="assets/PriceList-1.png" width="30%" />
@@ -173,131 +78,112 @@ Menampilkan pilihan paket layanan yang dapat dipilih sesuai kebutuhan pengguna.
 
 ---
 
-## 🤝 Portfolio & Clients
+## 🤝 Portfolio & Client Showcase
 
-Menampilkan daftar klien dan proyek yang pernah dikerjakan sebagai bentuk social proof dan peningkatan kredibilitas.
+### Objective
+
+Meningkatkan kepercayaan pengguna melalui bukti sosial (social proof) berupa klien dan proyek yang pernah dikerjakan.
+
+### Design Approach
+
+* Menampilkan logo klien untuk membangun kredibilitas
+* Showcase project dengan visual yang menarik
+* Layout grid yang responsif dan mudah dipindai
+
+### UX Consideration
+
+Calon pelanggan cenderung lebih percaya terhadap layanan yang memiliki portofolio dan pengalaman yang jelas.
 
 <img src="assets/OurClient.png" width="100%" alt="Portfolio Section"/>
 
 ---
 
-## 🔄 Service Process
+## 🔄 Service Workflow
 
-Menjelaskan tahapan layanan mulai dari konsultasi hingga website selesai dikembangkan.
+### Objective
 
-<img src="assets/Layanan.png" width="100%" alt="Service Process"/>
+Menjelaskan proses kerja secara transparan agar pelanggan memahami tahapan pengerjaan website.
+
+### Design Approach
+
+* Menggunakan visual step-by-step
+* Informasi disusun secara berurutan
+* Desain sederhana untuk memudahkan pemahaman
+
+### UX Consideration
+
+Mengurangi keraguan pelanggan dengan menunjukkan proses kerja yang jelas dan terstruktur.
+
+<img src="assets/Layanan.png" width="100%" alt="Workflow Section"/>
 
 ---
 
 ## 🎯 Website Redesign Service
 
-Menawarkan layanan redesign website untuk meningkatkan tampilan, performa, dan pengalaman pengguna.
+### Objective
+
+Menyediakan solusi bagi bisnis yang sudah memiliki website namun membutuhkan peningkatan tampilan, performa, atau pengalaman pengguna.
+
+### Design Approach
+
+* Menyoroti masalah umum website lama
+* Menawarkan solusi redesign yang lebih modern
+* Menampilkan paket redesign secara jelas
+
+### UX Consideration
+
+Membantu pengguna memahami manfaat redesign tanpa harus membaca penjelasan yang panjang.
 
 <img src="assets/PriceList-2.png" width="100%" alt="Website Redesign"/>
 
 ---
 
-## 💼 Careers Page
+## 💼 Career Opportunities
 
-Menyediakan informasi lowongan pekerjaan yang tersedia beserta detail kualifikasi yang dibutuhkan.
+### Objective
+
+Menyediakan informasi lowongan pekerjaan untuk menjangkau kandidat potensial yang ingin bergabung dengan perusahaan.
+
+### Design Approach
+
+* Layout yang sederhana dan profesional
+* Informasi posisi mudah ditemukan
+* Tombol aksi yang jelas untuk proses pendaftaran
+
+### UX Consideration
+
+Mempermudah kandidat dalam menemukan posisi yang relevan dan melakukan pendaftaran.
 
 <img src="assets/LowonganKerja.png" width="100%" alt="Careers Section"/>
 
 ---
 
-# ⚡ Getting Started
+# 🎯 Key Design Decisions
 
-### Clone Repository
+### Visual Hierarchy
 
-```bash
-git clone https://github.com/yourusername/landing-page.git
-```
+Penggunaan ukuran teks, warna, dan spacing yang konsisten membantu pengguna menemukan informasi penting lebih cepat.
 
-### Open Project Folder
+### Responsive Design
 
-```bash
-cd landing-page
-```
+Setiap komponen dirancang untuk beradaptasi secara optimal pada perangkat desktop, tablet, maupun mobile.
 
-### Run Locally
+### Accessibility
 
-Buka file berikut di browser:
+Kontras warna, ukuran teks, dan struktur konten diperhatikan agar tetap nyaman digunakan oleh berbagai pengguna.
 
-```text
-index.html
-```
+### Conversion Focused
 
-Atau jalankan local server:
-
-```bash
-python -m http.server 8000
-```
-
-Kemudian akses:
-
-```text
-http://localhost:8000
-```
+Setiap section dirancang untuk mengarahkan pengguna menuju tujuan utama yaitu melakukan konsultasi atau pemesanan layanan.
 
 ---
 
-# 📊 Project Highlights
+# 📈 Expected Outcome
 
-| Feature                | Status |
-| ---------------------- | ------ |
-| Responsive Design      | ✅      |
-| Modern UI Design       | ✅      |
-| Mobile Friendly        | ✅      |
-| Desktop Ready          | ✅      |
-| Fast Loading           | ✅      |
-| Easy Customization     | ✅      |
-| SEO-Friendly Structure | ✅      |
+Melalui struktur informasi yang jelas dan desain yang modern, landing page ini diharapkan mampu:
 
----
-
-# 👨‍💻 My Role
-
-Dalam proyek ini saya bertanggung jawab untuk:
-
-* UI Design
-* Front-End Development
-* Responsive Layout Implementation
-* User Experience Optimization
-* Content Structure Planning
-* Design-to-Code Implementation
-
----
-
-# 🎯 Design Principles
-
-Prinsip desain yang diterapkan pada proyek ini:
-
-* Consistency
-* Simplicity
-* Accessibility
-* Visual Hierarchy
-* Responsiveness
-* User-Centered Design
-
----
-
-# 🌟 Why This Project?
-
-* 🚀 Modern Landing Page Design
-* 🎨 Clean User Interface
-* 📱 Fully Responsive Layout
-* ⚡ Lightweight & Fast
-* 🔧 Easy to Customize
-* 💼 Suitable for Business Promotion
-
----
-
-<div align="center">
-
-# ⭐ Support
-
-Jika Anda menyukai proyek ini, jangan lupa memberikan ⭐ pada repository ini.
-
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:4F46E5,50:6366F1,100:8B5CF6"/>
-
-</div>
+* Meningkatkan kredibilitas bisnis
+* Meningkatkan engagement pengguna
+* Memperjelas informasi layanan
+* Meningkatkan conversion rate
+* Memberikan pengalaman pengguna yang lebih baik
