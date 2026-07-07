@@ -34,9 +34,25 @@ Dirancang untuk meningkatkan kredibilitas bisnis, membangun kepercayaan calon pe
 * [Accessibility](#-accessibility)
 * [Handoff Checklist](#-handoff-checklist)
 
----
 
-# 🎯 Overview
+## 🆕 Asset Update (2026-07-07)
+
+Dokumentasi pembaruan asset gambar sesuai permintaan desain terbaru dari Figma. Penggantian akan menimpa file lama di folder `assets/` setelah file baru diunggah.
+
+Mapping (urut upload → file tujuan):
+
+1. `Lanidng-Page.png` ← gambar upload 1 (Landing page)
+2. `Pembuatan-Website.png` ← gambar upload 2 (Pembuatan website)
+3. `SEO-Website.png` ← gambar upload 3 (SEO Website)
+4. `Redesign-Website.png` ← gambar upload 4 (Redesign website)
+5. `Detail-Proyek.png` ← gambar upload 5 (Detail website)
+
+Operasi yang diminta: resize semua gambar ke lebar 1200px (rasio asli dipertahankan) lalu overwrite file lama.
+
+Catatan:
+- Pastikan Anda sudah menyimpan cadangan jika ingin mengembalikan versi lama.
+- Jika Anda ingin menyimpan file baru tanpa menimpa, beri tahu saya untuk menyimpan dengan nama berbeda.
+
 
 Landing page ini dibuat untuk membantu bisnis jasa pembuatan website dalam:
 
