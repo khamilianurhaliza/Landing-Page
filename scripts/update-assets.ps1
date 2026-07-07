@@ -1,47 +1,104 @@
-param(
-    [Parameter(Mandatory=$true)]
-    [string]$SourceDir,
-    [switch]$Resize1200
-)
+<div align="center">
 
-$repoRoot = Split-Path -Parent $MyInvocation.MyCommand.Definition
-$assetsDir = (Resolve-Path (Join-Path $repoRoot '..\assets')).ProviderPath
+# 🌐 Digital Agency Website
 
-$mapping = @(
-    'Lanidng-Page.png',
-    'Pembuatan-Website.png',
-    'Redesign-Website.png',
-    'SEO-Website.png',
-    'Detail-Proyek.png'
-)
+Website company profile yang menawarkan layanan pembuatan website, redesign website, serta optimasi SEO dengan tampilan modern, profesional, dan responsif.
 
-Write-Host "Source: $SourceDir"
-Write-Host "Assets target: $assetsDir"
+</div>
 
-foreach ($name in $mapping) {
-    $src = Join-Path $SourceDir $name
-    $dst = Join-Path $assetsDir $name
-    if (Test-Path $src) {
-        Copy-Item -Path $src -Destination $dst -Force
-        Write-Host "Copied: $name"
-        if ($Resize1200) {
-            $magick = Get-Command magick -ErrorAction SilentlyContinue
-            if ($magick) {
-                magick $dst -resize 1200x $dst
-                Write-Host "Resized: $name to width 1200px"
-            } else {
-                Write-Warning "ImageMagick (magick) not found; skipping resize for $name"
-            }
-        }
-    } else {
-        Write-Warning "Source file not found: $src"
-    }
-}
+---
 
-Set-Location $repoRoot
-git add "$assetsDir\*" README.md
-$msg = "Update assets: replace images via update-assets.ps1"
-git commit -m $msg 2>$null
-if ($LASTEXITCODE -eq 0) { Write-Host "Committed changes." } else { Write-Host "No changes to commit or git commit failed." }
+# 🖼️ Website Preview
 
-Write-Host "Done. Preview with: python -m http.server 8000 (run from project root)"
+## 🏠 Landing Page
+
+<p align="center">
+  <img src="assets/Landing-Page.png" width="100%" alt="Landing Page">
+</p>
+
+<div align="center">
+
+Halaman utama yang menampilkan Hero Section, informasi layanan, keunggulan perusahaan, serta Call To Action untuk meningkatkan konversi pengunjung.
+
+</div>
+
+---
+
+# 💻 Website Development
+
+<p align="center">
+  <img src="assets/Pembuatan-Website.png" width="100%" alt="Website Development">
+</p>
+
+<div align="center">
+
+Layanan pembuatan website profesional mulai dari landing page, company profile, portfolio hingga website bisnis yang responsif di semua perangkat.
+
+</div>
+
+---
+
+# 🎨 Website Redesign
+
+<p align="center">
+  <img src="assets/Redesign-Website.png" width="100%" alt="Website Redesign">
+</p>
+
+<div align="center">
+
+Layanan redesign website untuk meningkatkan tampilan visual, pengalaman pengguna (UI/UX), performa, dan kredibilitas bisnis.
+
+</div>
+
+---
+
+# 🚀 SEO Optimization
+
+<p align="center">
+  <img src="assets/SEO-Website.png" width="100%" alt="SEO Website">
+</p>
+
+<div align="center">
+
+Optimasi Search Engine Optimization (SEO) agar website lebih mudah ditemukan di Google dan meningkatkan traffic organik.
+
+</div>
+
+---
+
+# 📂 Detail Project
+
+<p align="center">
+  <img src="assets/Detail-Proyek.png" width="100%" alt="Detail Project">
+</p>
+
+<div align="center">
+
+Halaman detail proyek yang menampilkan informasi lengkap mengenai layanan, hasil pengerjaan, teknologi yang digunakan, dan dokumentasi proyek.
+
+</div>
+
+---
+
+# ✨ Features
+
+<div align="center">
+
+| Feature | Description |
+|----------|-------------|
+| 🎨 Modern UI | Desain modern dan profesional |
+| 📱 Responsive | Mobile, Tablet & Desktop |
+| ⚡ Fast Performance | Optimasi loading website |
+| 🔍 SEO Friendly | Struktur SEO yang baik |
+| 🖥️ Clean Code | Mudah dikembangkan |
+| 📞 Contact Form | Form konsultasi pelanggan |
+
+</div>
+
+---
+
+<div align="center">
+
+### 💙 Built with HTML • CSS • JavaScript
+
+</div>
