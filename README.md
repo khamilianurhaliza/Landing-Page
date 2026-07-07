@@ -1,104 +1,141 @@
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:2563EB,50:4F46E5,100:7C3AED&text=Digital%20Agency%20Website&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38"/>
+</p>
+
 <div align="center">
 
 # 🌐 Digital Agency Website
 
-Website company profile yang menawarkan layanan pembuatan website, redesign website, serta optimasi SEO dengan tampilan modern, profesional, dan responsif.
+Website Company Profile modern yang menyediakan layanan **Website Development**, **Website Redesign**, dan **SEO Optimization** dengan tampilan profesional dan responsif.
+
+<br>
+
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Responsive](https://img.shields.io/badge/Responsive-Yes-success?style=for-the-badge)
+![SEO](https://img.shields.io/badge/SEO-Friendly-blue?style=for-the-badge)
 
 </div>
 
 ---
 
-# 🖼️ Website Preview
+# 📖 Table of Contents
 
-## 🏠 Landing Page
+- 🏠 Landing Page
+- 💻 Website Development
+- 🎨 Website Redesign
+- 🚀 SEO Optimization
+- 📂 Detail Project
+- ✨ Features
 
-<p align="center">
-  <img src="assets/Landing-Page.png" width="100%" alt="Landing Page">
-</p>
+---
+
+# 🏠 Landing Page
 
 <div align="center">
 
-Halaman utama yang menampilkan Hero Section, informasi layanan, keunggulan perusahaan, serta Call To Action untuk meningkatkan konversi pengunjung.
+<img src="assets/Landing-Page.png" width="100%" style="border-radius:15px">
 
 </div>
+
+> Halaman utama yang menampilkan Hero Section, layanan unggulan, Call To Action, serta informasi perusahaan secara profesional.
+
+<br>
+
+<p align="center">
+
+⭐ ⭐ ⭐ ⭐ ⭐
+
+</p>
 
 ---
 
 # 💻 Website Development
 
-<p align="center">
-  <img src="assets/Pembuatan-Website.png" width="100%" alt="Website Development">
-</p>
-
 <div align="center">
 
-Layanan pembuatan website profesional mulai dari landing page, company profile, portfolio hingga website bisnis yang responsif di semua perangkat.
+<img src="assets/Pembuatan-Website.png" width="100%">
 
 </div>
+
+Website profesional untuk:
+
+- Landing Page
+- Company Profile
+- Portfolio
+- UMKM
+- Corporate Website
 
 ---
 
 # 🎨 Website Redesign
 
-<p align="center">
-  <img src="assets/Redesign-Website.png" width="100%" alt="Website Redesign">
-</p>
-
 <div align="center">
 
-Layanan redesign website untuk meningkatkan tampilan visual, pengalaman pengguna (UI/UX), performa, dan kredibilitas bisnis.
+<img src="assets/Redesign-Website.png" width="100%">
 
 </div>
+
+Mengubah tampilan website lama menjadi lebih modern dengan peningkatan:
+
+- UI
+- UX
+- Performance
+- Responsiveness
 
 ---
 
 # 🚀 SEO Optimization
 
-<p align="center">
-  <img src="assets/SEO-Website.png" width="100%" alt="SEO Website">
-</p>
-
 <div align="center">
 
-Optimasi Search Engine Optimization (SEO) agar website lebih mudah ditemukan di Google dan meningkatkan traffic organik.
+<img src="assets/SEO-Website.png" width="100%">
 
 </div>
+
+Layanan optimasi SEO meliputi:
+
+- Keyword Optimization
+- Technical SEO
+- On-Page SEO
+- Performance Optimization
 
 ---
 
 # 📂 Detail Project
 
-<p align="center">
-  <img src="assets/Detail-Proyek.png" width="100%" alt="Detail Project">
-</p>
-
 <div align="center">
 
-Halaman detail proyek yang menampilkan informasi lengkap mengenai layanan, hasil pengerjaan, teknologi yang digunakan, dan dokumentasi proyek.
+<img src="assets/Detail-Proyek.png" width="100%">
 
 </div>
+
+Halaman detail proyek menampilkan informasi lengkap mengenai setiap layanan beserta proses pengerjaan dan teknologi yang digunakan.
 
 ---
 
 # ✨ Features
 
-<div align="center">
-
-| Feature | Description |
-|----------|-------------|
-| 🎨 Modern UI | Desain modern dan profesional |
+| 🚀 Feature | 📄 Description |
+|------------|----------------|
+| 🎨 Modern UI | Desain modern & elegan |
 | 📱 Responsive | Mobile, Tablet & Desktop |
-| ⚡ Fast Performance | Optimasi loading website |
-| 🔍 SEO Friendly | Struktur SEO yang baik |
-| 🖥️ Clean Code | Mudah dikembangkan |
-| 📞 Contact Form | Form konsultasi pelanggan |
-
-</div>
+| ⚡ Fast Loading | Performa website cepat |
+| 🔍 SEO Friendly | Mudah ditemukan Google |
+| 💼 Professional | Cocok untuk bisnis |
+| 📞 Contact Form | Form konsultasi |
 
 ---
 
 <div align="center">
 
-### 💙 Built with HTML • CSS • JavaScript
+## ❤️ Thanks for Visiting
+
+Jika project ini bermanfaat, jangan lupa berikan ⭐ pada repository ini.
 
 </div>
+
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&height=150&section=footer&color=0:7C3AED,50:4F46E5,100:2563EB"/>
+</p>
