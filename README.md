@@ -11,7 +11,7 @@ Website Company Profile modern yang menyediakan layanan *Website Development, **
 <br>
 
 ![Responsive](https://img.shields.io/badge/Responsive-Yes-success?style=for-the-badge)
-![Figma](https://img.shields.io/badge/Figma-orange?style=for-the-badge&logo=figma&logoColor=white)
+[![Figma](https://img.shields.io/badge/Figma-Design-orange?style=for-the-badge&logo=figma&logoColor=white)](https://www.figma.com/design/Yeayrdkr0P4N53LNYM17Zw/Landing-Page?node-id=0-1&t=LHBxKDDKFcff4cgo-1)
 
 </div>
 
