@@ -127,7 +127,6 @@ Halaman detail proyek menampilkan informasi lengkap mengenai setiap layanan bese
 
 ## ❤️ Thanks for Visiting
 
-Jika project ini bermanfaat, jangan lupa berikan ⭐ pada repository ini.
 
 </div>
 
