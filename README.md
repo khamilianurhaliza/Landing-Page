@@ -35,7 +35,7 @@ Website Company Profile modern yang menyediakan layanan **Website Development**,
 
 <div align="center">
 
-![Landing Page](/assets/Landing-Page.png)
+<img src="assets/Landing-Page.png" width="100%" style="border-radius:15px">
 
 </div>
 
@@ -55,7 +55,7 @@ Website Company Profile modern yang menyediakan layanan **Website Development**,
 
 <div align="center">
 
-![Pembuatan Website](/assets/Pembuatan-Website.png)
+<img src="assets/Pembuatan-Website.png" width="100%">
 
 </div>
 
@@ -73,7 +73,7 @@ Website profesional untuk:
 
 <div align="center">
 
-![Redesign Website](/assets/Redesign-Website.png)
+<img src="assets/Redesign-Website.png" width="100%">
 
 </div>
 
@@ -90,14 +90,14 @@ Mengubah tampilan website lama menjadi lebih modern dengan peningkatan:
 
 <div align="center">
 
-![SEO Website](/assets/SEO-Website.png)
+<img src="assets/SEO-Website.png" width="100%">
 
 </div>
 
 Layanan optimasi SEO meliputi:
 
 - Keyword Optimization
-- Technical SEO
+- Technical SEOz
 - On-Page SEO
 - Performance Optimization
 
@@ -107,7 +107,7 @@ Layanan optimasi SEO meliputi:
 
 <div align="center">
 
-![Detail Proyek](/assets/Detail-Proyek.png)
+<img src="assets/Detail-Proyek.png" width="100%">
 
 </div>
 
