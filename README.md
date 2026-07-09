@@ -6,7 +6,7 @@
 
 # 🌐 Digital Agency Website
 
-Website Company Profile modern yang menyediakan layanan **Website Development**, **Website Redesign**, dan **SEO Optimization** dengan tampilan profesional, modern, dan responsif.
+Website Company Profile modern yang menyediakan layanan *Website Development, **Website Redesign, dan **SEO Optimization* dengan tampilan profesional, modern, dan responsif.
 
 <br>
 
@@ -35,7 +35,7 @@ Website Company Profile modern yang menyediakan layanan **Website Development**,
 
 <div align="center">
 
-<img src="./assets/Landing-Page.png" alt="Landing Page" width="100%"/>
+<img src="assets/Landing-Page.png" alt="Landing Page" width="100%"/>
 
 </div>
 
@@ -53,7 +53,7 @@ Website Company Profile modern yang menyediakan layanan **Website Development**,
 
 <div align="center">
 
-<img src="./assets/Pembuatan-Website.png" alt="Website Development" width="100%"/>
+<img src="assets/Pembuatan-Website.png" alt="Website Development" width="100%"/>
 
 </div>
 
@@ -71,7 +71,7 @@ Website profesional yang dapat digunakan untuk:
 
 <div align="center">
 
-<img src="./assets/Redesign-Website.png" alt="Website Redesign" width="100%"/>
+<img src="assets/Redesign-Website.png" alt="Website Redesign" width="100%"/>
 
 </div>
 
@@ -88,7 +88,7 @@ Mengubah tampilan website lama menjadi lebih modern melalui peningkatan:
 
 <div align="center">
 
-<img src="./assets/SEO-Website.png" alt="SEO Optimization" width="100%"/>
+<img src="assets/SEO-Website.png" alt="SEO Optimization" width="100%"/>
 
 </div>
 
@@ -105,7 +105,7 @@ Layanan optimasi SEO meliputi:
 
 <div align="center">
 
-<img src="./assets/Detail-Proyek.png" alt="Detail Project" width="100%"/>
+<img src="assets/Detail-Proyek.png" alt="Detail Project" width="100%"/>
 
 </div>
 
@@ -132,11 +132,11 @@ Halaman detail proyek menampilkan informasi lengkap mengenai setiap layanan bese
 
 | Landing Page | Website Development |
 |:-------------:|:-------------------:|
-| <img src="./assets/Landing-Page.png" width="450"/> | <img src="./assets/Pembuatan-Website.png" width="450"/> |
+| <img src="assets/Landing-Page.png" width="450"/> | <img src="assets/Pembuatan-Website.png" width="450"/> |
 
 | Website Redesign | SEO Optimization |
 |:----------------:|:----------------:|
-| <img src="./assets/Redesign-Website.png" width="450"/> | <img src="./assets/SEO-Website.png" width="450"/> |
+| <img src="assets/Redesign-Website.png" width="450"/> | <img src="assets/SEO-Website.png" width="450"/> |
 
 </div>
 
