@@ -8,11 +8,12 @@
 
 Website Company Profile modern yang menyediakan layanan *Website Development, **Website Redesign, dan **SEO Optimization* dengan tampilan profesional, modern, dan responsif.
 
-<p align="center">
-  <a href="https://www.figma.com/design/anxHez2cB4nGAV0CaPMYfX/E-Portal-Sekolah">
-    <img src="https://img.shields.io/badge/View%20Figma-Design-F24E1E?style=for-the-badge&logo=figma&logoColor=white">
-  </a>
-</p>
+<br>
+
+![Responsive](https://img.shields.io/badge/Responsive-Yes-success?style=for-the-badge)
+![Figma](https://img.shields.io/badge/Figma-orange?style=for-the-badge&logo=figma&logoColor=white)
+
+</div>
 
 ---
 
