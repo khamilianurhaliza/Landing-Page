@@ -53,7 +53,7 @@ Website Company Profile modern yang menyediakan layanan *Website Development, **
 
 <div align="center">
 
-<img src="assets/Pembuatan-Website.png" alt="Website Development" width="100%"/>
+<img src="assets/Pembuatan-Website.png" alt="Pembuatan Website" width="100%"/>
 
 </div>
 
