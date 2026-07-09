@@ -128,22 +128,6 @@ Halaman detail proyek menampilkan informasi lengkap mengenai setiap layanan bese
 
 <div align="center">
 
-## 🖼️ Website Preview
-
-| Landing Page | Website Development |
-|:-------------:|:-------------------:|
-| <img src="assets/Landing-Page.png" width="450"/> | <img src="assets/Pembuatan-Website.png" width="450"/> |
-
-| Website Redesign | SEO Optimization |
-|:----------------:|:----------------:|
-| <img src="assets/Redesign-Website.png" width="450"/> | <img src="assets/SEO-Website.png" width="450"/> |
-
-</div>
-
----
-
-<div align="center">
-
 ## ❤️ Thanks for Visiting
 
 Jika project ini bermanfaat, jangan lupa berikan ⭐ pada repository ini.
