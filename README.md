@@ -40,7 +40,6 @@ Website Company Profile modern yang menyediakan layanan *Website Development, **
 
 <p align="center">
 
-⭐⭐⭐⭐⭐
 
 </p>
 
